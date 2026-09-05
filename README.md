@@ -1,16 +1,35 @@
-## Hi there 👋
+# Bonjour, je suis Yvan 👋
 
-<!--
-**YvanNgatchouYonpang/YvanNgatchouYonpang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Développeur d'applications | Application Security
 
-Here are some ideas to get you started:
+Je suis actuellement en formation en développement d'applications
+sécuritaires et je développe mes compétences dans la conception,
+le développement et la sécurisation d'applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies
+
+- C#
+- .NET / ASP.NET Core
+- Angular
+- SQL Server
+- Entity Framework Core
+- Git & GitHub
+
+### 🔐 Intérêts
+
+- Sécurité applicative
+- Développement Web
+- API REST
+- Architecture logicielle
+- Qualité et maintenabilité du code
+
+### 🚀 Projets
+
+Je travaille sur différents projets permettant de mettre en pratique
+mes compétences en développement d'applications, en architecture
+logicielle et en sécurité.
+
+### 📫 Me contacter
+
+- LinkedIn : Yvan Ngantchou Yonpang
+- Email : yvanyonpang@icloud.com
