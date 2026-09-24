@@ -29,6 +29,7 @@ le développement et la sécurisation d'applications.
 - Git
 - GitHub
 - Visual Studio
+- Visual studio Code
 
 ### 🔐 Intérêts
 
